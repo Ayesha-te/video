@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, MessageCircle, Facebook, Twitter } from 'lucide-react';
+import { Instagram, MessageCircle, Facebook } from 'lucide-react';
 
 const PlatformInfo: React.FC = () => {
   const platforms = [
